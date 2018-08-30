@@ -27,6 +27,11 @@
 		<position>banner</position>						
 		<position>bottom</position>
 		<position>homepage</position>
+		<position>menu_footer</position>
+		<position>footer_bottom</position>
+		<position>right_sidebar</position>
+
+
 
 
 	</positions>	

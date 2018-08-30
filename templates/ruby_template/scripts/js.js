@@ -70,5 +70,8 @@ jQuery(document).ready(function($){
 
         $(document).ready(_init.init);
 
+        var header_height = $('header').height();
+        $('.conponent_site').css('margin-top',header_height+'px');
+
 
 });
