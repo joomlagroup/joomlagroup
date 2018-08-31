@@ -93,7 +93,7 @@ if ($menu->getActive() == $menu->getDefault()) {
     </nav>
     <?php if($is_homepage): ?>
     <div class="bigBnaaer reGetStarted getStarted hidden-xs visible-lg">
-        <a class="getstartBtn-header" href="get-started.php"><span class="shake moveAnimate">GET STARTED <span class="listingExrArrow getStartedArrow"></span></span></a>
+        <a class="getstartBtn-header" href="#"><span class="shake moveAnimate">GET STARTED <span class="listingExrArrow getStartedArrow"></span></span></a>
     </div>
     <?php endif; ?>
 </header>

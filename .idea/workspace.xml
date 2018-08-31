@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d94e37c-04b8-4249-86ac-b0e037571387" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ruby_template/css/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/css/template.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ruby_template/html/com_tags/tag/default_items.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/html/com_tags/tag/default_items.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/ruby_template/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="template.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
@@ -56,6 +54,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="95" column="45" selection-start-line="95" selection-start-column="45" selection-end-line="95" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -152,7 +159,6 @@
         <option value="$PROJECT_DIR$/templates/ruby_template/scripts/js.js" />
         <option value="$PROJECT_DIR$/modules/mod_articles_popular/tmpl/default.php" />
         <option value="$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_item.php" />
-        <option value="$PROJECT_DIR$/templates/ruby_template/index.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/html/com_content/category/blog.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/html/mod_articles_popular/default.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/html/com_content/category/blog_item.php" />
@@ -166,6 +172,7 @@
         <option value="$PROJECT_DIR$/components/com_tags/views/tag/tmpl/default_items.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/html/com_tags/tag/default_items.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/css/template.css" />
+        <option value="$PROJECT_DIR$/templates/ruby_template/index.php" />
       </list>
     </option>
   </component>
@@ -206,44 +213,7 @@
               <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="protostar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="protostar" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="ruby_template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="ruby_template" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="ruby_template" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-              <item name="com_tags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="ruby_template" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-              <item name="com_tags" type="462c0819:PsiDirectoryNode" />
-              <item name="tag" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,12 +268,12 @@
       <workItem from="1535627405234" duration="3412000" />
       <workItem from="1535643189504" duration="245000" />
       <workItem from="1535681993197" duration="5714000" />
-      <workItem from="1535689999706" duration="12365000" />
+      <workItem from="1535689999706" duration="12982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86249000" />
+    <option name="totallyTimeSpent" value="86866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -508,13 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="106" column="44" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/joomla/content/category_default.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-948" />
@@ -663,6 +626,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="2605" column="14" selection-start-line="2605" selection-start-column="14" selection-end-line="2605" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="95" column="45" selection-start-line="95" selection-start-column="45" selection-end-line="95" selection-end-column="45" />
         </state>
       </provider>
     </entry>
