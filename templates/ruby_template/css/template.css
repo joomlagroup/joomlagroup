@@ -2432,7 +2432,7 @@ a {
     font-size: 13px;
     font-weight: bold;
     text-transform: uppercase;
-    padding: 5px 10px;
+    padding: 5px 10px 8px 10px;
     display: inline-block;
     margin-bottom: 30px;
     color: #fff;
@@ -2519,4 +2519,62 @@ div.blog p {
 
 .item-page .article-info a {
     color: #999;
+}
+
+div.tag-category fieldset {
+    margin: 0px;
+}
+
+div.tag-category fieldset .btn-group {
+    float: none;
+}
+
+div.tag-category fieldset .btn {
+    float: none;
+}
+
+div.tag-category ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+div.tag-category ul li {
+    margin: 11px 0px;
+}
+
+div.tag-category ul li h3{
+    margin: 10px 0px 10px 0px;
+}
+
+div.tag-category ul li a {
+    font-size: 20px;
+}
+
+div.tag-category  .tag-body {
+    margin-top: 20px;
+    display: block;
+}
+
+.icon-search:before {
+    font-family: FontAwesome;
+    content: "\f002";
+}
+
+.icon-remove:before {
+    font-family: FontAwesome;
+    content: "\f00d";
+}
+
+div.tag-category #filter-search{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border linear .2s, box-shadow linear .2s;
+    -moz-transition: border linear .2s, box-shadow linear .2s;
+    -o-transition: border linear .2s, box-shadow linear .2s;
+    transition: border linear .2s, box-shadow linear .2s;
+    padding: 3px 10px;
 }
