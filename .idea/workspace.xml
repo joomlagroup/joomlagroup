@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0d94e37c-04b8-4249-86ac-b0e037571387" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod_homepage_our_blog/mod_homepage_our_blog.php" beforeDir="false" afterPath="$PROJECT_DIR$/modules/mod_homepage_our_blog/mod_homepage_our_blog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod_homepage_our_blog/mod_homepage_our_blog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/mod_homepage_our_blog/mod_homepage_our_blog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod_homepage_our_blog/tmpl/default.php" beforeDir="false" afterPath="$PROJECT_DIR$/modules/mod_homepage_our_blog/tmpl/default.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/ruby_template/css/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/css/template.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ruby_template/images/comradeimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/ruby_template/html/mod_articles_popular/default.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/html/mod_articles_popular/default.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/ruby_template/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ruby_template/scripts/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/scripts/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ruby_template/templateDetails.xml" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/templateDetails.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,20 +19,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
+      <file leaf-file-name="helper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/mod_articles_latest/helper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
+            <state relative-caret-position="-765">
+              <caret line="60" column="54" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grid.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../tainangtre/templates/ja_simpli/html/mod_articles_category/grid.php">
+      <file leaf-file-name="mod_homepage_our_blog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/mod_homepage_our_blog/mod_homepage_our_blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="170">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/mod_homepage_our_blog/tmpl/default.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="2484" column="28" lean-forward="true" selection-start-line="2484" selection-start-column="28" selection-end-line="2484" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -39,35 +61,8 @@
       <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/ruby_template/html/mod_articles_popular/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/protostar/css/template.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="502" column="1" lean-forward="true" selection-start-line="321" selection-end-line="502" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="2421" column="1" selection-start-line="2421" selection-start-column="1" selection-end-line="2421" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cod/templates/countrywidedist/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="198" column="50" selection-start-line="198" selection-start-column="16" selection-end-line="198" selection-end-column="50" />
+            <state relative-caret-position="306">
+              <caret line="30" column="51" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -76,10 +71,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Poppins</find>
-      <find>.menuOuter</find>
-      <find>js</find>
-      <find>owl</find>
       <find>.js</find>
       <find>owl-item</find>
       <find>.portfolio-tabs__item</find>
@@ -106,6 +97,10 @@
       <find>height</find>
       <find>===</find>
       <find>span6</find>
+      <find>bo</find>
+      <find>category-name</find>
+      <find>span</find>
+      <find>post__text</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -133,7 +128,6 @@
         <option value="$PROJECT_DIR$/modules/mod_homepage_method/tmpl/default.php" />
         <option value="$USER_HOME$/Desktop/news/mod_homepage_our_blog/mod_homepage_portfolio.php" />
         <option value="$USER_HOME$/Desktop/news/mod_homepage_our_blog/mod_homepage_our_blog.xml" />
-        <option value="$PROJECT_DIR$/modules/mod_homepage_our_blog/tmpl/default.php" />
         <option value="$USER_HOME$/Desktop/news/mod_homepage_map_contact/mod_homepage_map_contact.php" />
         <option value="$USER_HOME$/Desktop/news/mod_homepage_map_contact/mod_homepage_map_contact.xml" />
         <option value="$PROJECT_DIR$/modules/mod_homepage_map_contact/tmpl/default.php" />
@@ -145,10 +139,17 @@
         <option value="$PROJECT_DIR$/modules/mod_homepage_banner/tmpl/default.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/templateDetails.xml" />
         <option value="$PROJECT_DIR$/templates/ruby_template/scripts/js.js" />
-        <option value="$PROJECT_DIR$/templates/ruby_template/index.php" />
         <option value="$PROJECT_DIR$/modules/mod_articles_popular/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_item.php" />
+        <option value="$PROJECT_DIR$/templates/ruby_template/index.php" />
+        <option value="$PROJECT_DIR$/templates/ruby_template/html/com_content/category/blog.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/html/mod_articles_popular/default.php" />
+        <option value="$PROJECT_DIR$/templates/ruby_template/html/com_content/category/blog_item.php" />
+        <option value="$PROJECT_DIR$/modules/mod_homepage_our_blog/helper.php" />
+        <option value="$PROJECT_DIR$/modules/mod_homepage_our_blog/mod_homepage_our_blog.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/css/template.css" />
+        <option value="$PROJECT_DIR$/modules/mod_homepage_our_blog/mod_homepage_our_blog.xml" />
+        <option value="$PROJECT_DIR$/modules/mod_homepage_our_blog/tmpl/default.php" />
       </list>
     </option>
   </component>
@@ -161,7 +162,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="574" />
     <option name="y" value="-25" />
     <option name="width" value="1346" />
@@ -183,38 +184,46 @@
             <path>
               <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="com_content" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="mod_homepage_our_blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="com_content" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="mod_homepage_our_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="tmpl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="ruby_template" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="ruby_template" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_template" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_template" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="mod_articles_popular" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,12 +275,15 @@
       <workItem from="1535560171020" duration="651000" />
       <workItem from="1535598354361" duration="5944000" />
       <workItem from="1535613090277" duration="5529000" />
-      <workItem from="1535627405234" duration="2375000" />
+      <workItem from="1535627405234" duration="3412000" />
+      <workItem from="1535643189504" duration="245000" />
+      <workItem from="1535681993197" duration="5714000" />
+      <workItem from="1535689999706" duration="6943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66888000" />
+    <option name="totallyTimeSpent" value="80827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -301,19 +313,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -326,130 +338,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84184">
-          <caret line="4952" column="5" selection-start-line="4914" selection-start-column="4" selection-end-line="4952" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/aa/haha/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="11" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/aa/haha/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="11" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/news/mod_homepage_portfolio/mod_homepage_portfolio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/news/mod_homepage_portfolio/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4952" column="5" selection-start-line="4914" selection-start-column="4" selection-end-line="4952" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../networksaigon/templates/protostar/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3006">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/news/mod_homepage_method/mod_homepage_method.xml" />
-    <entry file="file://$USER_HOME$/Desktop/news/mod_homepage_method/mod_homepage_method.php" />
-    <entry file="file://$USER_HOME$/Desktop/news/mod_homepage_method/tmpl/default.php" />
-    <entry file="file://$USER_HOME$/Desktop/news/mod_homepage_portfolio/mod_homepage_portfolio.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/news/mod_homepage_our_blog/mod_homepage_portfolio.php" />
-    <entry file="file://$USER_HOME$/Desktop/news/mod_homepage_our_blog/mod_homepage_our_blog.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/news/mod_homepage_our_blog/mod_homepage_our_blog.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_homepage_our_blog/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/news/mod_homepage_map_contact/mod_homepage_map_contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/news/mod_homepage_map_contact/mod_homepage_map_contact.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_homepage_map_contact/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="132" column="10" selection-start-line="132" selection-start-column="10" selection-end-line="132" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_homepage_portfolio/mod_homepage_portfolio.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_homepage_portfolio/mod_homepage_portfolio.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../networksaigon/templates/beez3/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Compressed/nice web/oAVWZDLisO/templates/oAVWZDLisO/js/script.js" />
-    <entry file="file://E:/nice web/bootstrap 4/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12373" />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/news/mod_footer_bottom/mod_footer_bottom.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -535,13 +423,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../cod/templates/countrywidedist/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="3366">
           <caret line="198" column="50" selection-start-line="198" selection-start-column="16" selection-end-line="198" selection-end-column="50" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_content/views/category/tmpl/blog.php">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_content/views/categories/tmpl/default_items.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -551,21 +436,11 @@
     <entry file="file://$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_links.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_item.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/com_content/views/category/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_content/views/category/tmpl/default_children.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/mod_articles_popular/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -574,36 +449,200 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tainangtre/templates/ja_simpli/html/mod_articles_category/grid.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="35" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/system/css/system.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ruby_template/html/mod_articles_popular/default.php">
+    <entry file="file://$PROJECT_DIR$/libraries/joomla/application/web/router/rest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="-1850" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/joomla/application/web/router/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1428" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/joomla/application/web/router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/joomla/controller/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/joomla/database/driver/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/joomla/controller/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-731">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/protostar/css/template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="502" column="1" lean-forward="true" selection-start-line="321" selection-end-line="502" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="502" column="1" selection-start-line="321" selection-end-line="502" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tainangtre/templates/ja_simpli/html/mod_articles_category/grid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_news/tmpl/_item.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_news/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_content/views/article/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-605">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/joomla/content/info_block/block.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/joomla/content/info_block/create_date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="17" selection-start-line="12" selection-start-column="12" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_content/views/category/tmpl/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="99" column="28" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="106" column="44" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/joomla/content/category_default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-948" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/joomla/content/categories_default_items.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ruby_template/html/com_content/category/blog_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/joomla/content/info_block/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ruby_template/html/com_content/category/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="97" column="111" selection-start-line="97" selection-start-column="111" selection-end-line="97" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_latest/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_latest/mod_articles_latest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_homepage_our_blog/mod_homepage_our_blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_homepage_our_blog/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="96" column="60" lean-forward="true" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_latest/mod_articles_latest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="67" column="85" lean-forward="true" selection-start-line="67" selection-start-column="85" selection-end-line="67" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_homepage_our_blog/mod_homepage_our_blog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="2421" column="1" selection-start-line="2421" selection-start-column="1" selection-end-line="2421" selection-end-column="1" />
+        <state relative-caret-position="293">
+          <caret line="2484" column="28" lean-forward="true" selection-start-line="2484" selection-start-column="28" selection-end-line="2484" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_latest/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="60" column="54" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ruby_template/html/mod_articles_popular/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_homepage_our_blog/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

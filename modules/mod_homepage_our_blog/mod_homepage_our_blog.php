@@ -11,5 +11,8 @@ defined('_JEXEC') or die;
 
 // Include the search functions only once
 //JLoader::register('ModJK8SearchProductsHelper', __DIR__ . '/helper.php');
+JLoader::register('ModHomepageOurBlogHelper', __DIR__ . '/helper.php');
+
+$list            = ModHomepageOurBlogHelper::getList($params);
 
 require JModuleHelper::getLayoutPath('mod_homepage_our_blog', $params->get('layout', 'default'));

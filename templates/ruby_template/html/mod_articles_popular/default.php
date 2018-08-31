@@ -10,7 +10,9 @@
 defined('_JEXEC') or die;
 ?>
 <ul class="mostread<?php echo $moduleclass_sfx; ?>">
-<?php foreach ($list as $item) : ?>
+<?php foreach ($list as $item) :
+    //echo '<pre>'; print_r($item->created); echo '</pre>'; die();
+    ?>
 
 	<li itemscope itemtype="https://schema.org/Article">
         <?php
@@ -26,7 +28,9 @@ defined('_JEXEC') or die;
             ?>
 
             <div class="item-image">
+                <a href="<?php echo $item->link; ?>" itemprop="url">
                 <img src="<?php echo htmlspecialchars($images->image_intro); ?>" alt="<?php echo $item->title; ?>" />
+                </a>
                 <span class="mask"></span>
             </div>
         <?php } ?>
@@ -36,6 +40,11 @@ defined('_JEXEC') or die;
 				<?php echo $item->title; ?>
 			</span>
 		</a>
+
+        <div class="create_date">
+            <?php echo JHtml::_('date', $item->created, JText::_('DATE_FORMAT_LC3')); ?>
+        </div>
+
 	</li>
 <?php endforeach; ?>
 </ul>

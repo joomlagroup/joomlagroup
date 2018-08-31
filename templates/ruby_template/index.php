@@ -104,12 +104,12 @@ if ($menu->getActive() == $menu->getDefault()) {
     <?php endif; ?>
 <?php else: ?>
     <div class="container conponent_site">
-        <div class="row row-fluid">
-            <div class="col-md-9">
+        <div class="row row-fluid main_blogs">
+            <div class="col-md-8">
                 <jdoc:include type="modules" name="breadcrumb" style="xhtml" />
                 <jdoc:include type="component" />
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <?php if($this->countModules('right_sidebar')): ?>
                     <jdoc:include type="modules" name="right_sidebar" style="xhtml" />
                 <?php endif; ?>
