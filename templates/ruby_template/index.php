@@ -51,7 +51,7 @@ if ($menu->getActive() == $menu->getDefault()) {
 <body>
 
 <header class="defineFloat">
-    <nav class="navbar navbar-default navbar-static-top">
+    <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-3">
