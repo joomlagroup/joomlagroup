@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d94e37c-04b8-4249-86ac-b0e037571387" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/modules/mod_homepage_map_contact/tmpl/default.php" beforeDir="false" afterPath="$PROJECT_DIR$/modules/mod_homepage_map_contact/tmpl/default.php" afterDir="false" />
-    </list>
+    <list default="true" id="0d94e37c-04b8-4249-86ac-b0e037571387" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +20,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="template.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="1063" column="24" selection-start-line="1063" selection-start-column="24" selection-end-line="1063" selection-end-column="24" />
+            <state relative-caret-position="442">
+              <caret line="80" column="41" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -40,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/mod_homepage_map_contact/tmpl/default.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
@@ -48,6 +46,24 @@
               <folding>
                 <element signature="n#style#0;n#input#0;n#p#0;n#form#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/mod_homepage_method/tmpl/default.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/mod_homepage_portfolio/tmpl/default.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="203" column="118" lean-forward="true" selection-start-line="203" selection-start-column="118" selection-end-line="203" selection-end-column="118" />
             </state>
           </provider>
         </entry>
@@ -157,12 +173,12 @@
         <option value="$PROJECT_DIR$/templates/ruby_template/html/com_tags/tag/default_items.php" />
         <option value="$PROJECT_DIR$/modules/mod_homepage_method/tmpl/default.php" />
         <option value="$PROJECT_DIR$/modules/mod_homepage_banner/tmpl/default.php" />
-        <option value="$PROJECT_DIR$/templates/ruby_template/css/template.css" />
         <option value="$PROJECT_DIR$/templates/ruby_template/index.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/scripts/js.js" />
         <option value="$PROJECT_DIR$/components/com_contact/views/contact/tmpl/default.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/html/com_contact/contact/default.php" />
         <option value="$PROJECT_DIR$/modules/mod_homepage_map_contact/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/templates/ruby_template/css/template.css" />
       </list>
     </option>
   </component>
@@ -203,13 +219,13 @@
               <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="mod_homepage_map_contact" type="462c0819:PsiDirectoryNode" />
+              <item name="mod_homepage_portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="mod_homepage_map_contact" type="462c0819:PsiDirectoryNode" />
+              <item name="mod_homepage_portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="tmpl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -267,12 +283,12 @@
       <workItem from="1535681993197" duration="5714000" />
       <workItem from="1535689999706" duration="13581000" />
       <workItem from="1535726547873" duration="109000" />
-      <workItem from="1535940798260" duration="15507000" />
+      <workItem from="1535940798260" duration="17082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103081000" />
+    <option name="totallyTimeSpent" value="104656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -327,9 +343,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/components/com_content/views/category/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/com_content/views/category/tmpl/default_children.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -584,20 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="1063" column="24" selection-start-line="1063" selection-start-column="24" selection-end-line="1063" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_homepage_method/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -646,6 +645,27 @@
           <folding>
             <element signature="n#style#0;n#input#0;n#p#0;n#form#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_homepage_method/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_homepage_portfolio/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="203" column="118" lean-forward="true" selection-start-line="203" selection-start-column="118" selection-end-line="203" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="80" column="41" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
         </state>
       </provider>
     </entry>
