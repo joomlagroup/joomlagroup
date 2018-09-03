@@ -21,14 +21,13 @@ defined('_JEXEC') or die;
                 <div id="request-close" class="contact-form__close"><i class="icon-cross"></i></div>
                 <div class="contact-form__left"><h2>Let's Talk!</h2>
                     <div class="contact-form__section"><h3>Visit us</h3>
-                        <p>770 N Halsted Street, Suite 106
-                            Chicago, IL 60642</p></div>
+                        <p>80 Ha Dac, District 12, HCMC, Vietnam</p></div>
                     <div class="contact-form__section"><h3>Hours of operation</h3>
                         <p>MON-FR: 9AM — 5PM</p></div>
                     <div class="contact-form__section"><h3>Say hello by phone</h3>
-                        <p><a class="google-phone-replace" href="tel:(312) 265-0580">(312) 265-0580</a></p></div>
+                        <p><a class="google-phone-replace" href="tel:+8498917500">+8498917500</a></p></div>
                     <div class="contact-form__section"><h3>Or by email</h3>
-                        <p><a href="mailto:info@comradeweb.com">info@comradeweb.com</a></p></div>
+                        <p><a href="mailto:webmaster@joomlagroup.com">webmaster@joomlagroup.com</a></p></div>
                 </div>
                 <div class="contact-form__right">
                     <div>
