@@ -1556,6 +1556,9 @@ p {
 }
 
 @media only screen and (max-width: 768px) {
+    body {
+        padding-top: 0px;
+    }
     .contact-form__left {
         width: 100%;
         padding-bottom: 5px;
