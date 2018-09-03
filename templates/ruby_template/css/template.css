@@ -2616,3 +2616,38 @@ div.tag-category .btn {
         width: auto;
     }
 }
+
+@media screen and (max-width: 767px) {
+    header nav.navbar  {
+        overflow-y: scroll-y;
+    }
+    ul.menunav {
+        background: #1d1d23;
+    }
+
+    header nav.navbar ul li a,header nav.navbar ul li span {
+        color: #ffffff;
+        font-size: 13px;
+        letter-spacing: 0.8px;
+        padding: 12px 9px 13px 9px;
+        display: block;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    header nav.navbar ul li.active a, eader nav.navbar ul li.active span {
+        background-color: #f6f6f6;
+        color: #21ab9b;
+    }
+
+    header nav.navbar ul li ul {
+        position: relative;
+        left: auto;
+        width: auto;
+    }
+
+    header nav.navbar ul li {
+        height: auto;
+    }
+}
+

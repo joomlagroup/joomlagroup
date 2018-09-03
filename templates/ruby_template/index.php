@@ -46,6 +46,7 @@ if ($menu->getActive() == $menu->getDefault()) {
     ?>
     <script type="text/javascript" src="<?php echo $gk_tools->templateurl(); ?>/scripts/owl.carousel.js"></script>
     <script type="text/javascript" src="<?php echo $gk_tools->templateurl(); ?>/scripts/js.js"></script>
+    <script type="text/javascript" src="<?php echo $gk_tools->templateurl(); ?>/scripts/bootstrap.js"></script>
 </head>
 <body>
 
