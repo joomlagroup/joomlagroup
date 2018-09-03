@@ -31,92 +31,25 @@ defined('_JEXEC') or die;
                         <p><a href="mailto:info@comradeweb.com">info@comradeweb.com</a></p></div>
                 </div>
                 <div class="contact-form__right">
-                    <div role="form" class="wpcf7" id="wpcf7-f24896-o1" dir="ltr" lang="en-US">
+                    <div>
                         <div class="screen-reader-response"></div>
-                        <form action="" method="post" class="wpcf7-form" novalidate="novalidate"
-                              id="form-24896">
-                            <div style="display: none;"><input name="_wpcf7" value="24896" type="hidden"> <input
-                                        name="_wpcf7_version" value="5.0.2" type="hidden"> <input name="_wpcf7_locale"
-                                                                                                  value="en_US"
-                                                                                                  type="hidden"> <input
-                                        name="_wpcf7_unit_tag" value="wpcf7-f24896-o1" type="hidden"> <input
-                                        name="_wpcf7_container_post" value="0" type="hidden"></div>
-                            <div style="visibility:hidden;pointer-events:none;width:0;height:0;position:absolute;top:-9999px;left:-9999px;z-index:-1;"
-                                 tabindex="-1"><span ><input name="visitorid"
-                                                                                                      value="" size="40"
-                                                                                                      class="wpcf7-form-control wpcf7-text"
-                                                                                                      aria-invalid="false"
-                                                                                                      placeholder="GA ID"
-                                                                                                      type="text"></span><span
-                                        class=""><input name="ga_source" value=""
-                                                                                         size="40"
-                                                                                         class="wpcf7-form-control wpcf7-text"
-                                                                                         aria-invalid="false"
-                                                                                         placeholder="GA Source"
-                                                                                         type="text"></span><span
-                                        class=""><input name="ga_medium" value=""
-                                                                                         size="40"
-                                                                                         class="wpcf7-form-control wpcf7-text"
-                                                                                         aria-invalid="false"
-                                                                                         placeholder="GA Medium"
-                                                                                         type="text"></span><span
-                                        class=""><input name="ga_content" value=""
-                                                                                          size="40"
-                                                                                          class="wpcf7-form-control wpcf7-text"
-                                                                                          aria-invalid="false"
-                                                                                          placeholder="GA Content"
-                                                                                          type="text"></span><span
-                                        class=""><input name="ga_term" value="" size="40"
-                                                                                       class="wpcf7-form-control wpcf7-text"
-                                                                                       aria-invalid="false"
-                                                                                       placeholder="GA Keyword"
-                                                                                       type="text"></span><span
-                                        class=""><input name="ga_campaign" value=""
-                                                                                           size="40"
-                                                                                           class="wpcf7-form-control wpcf7-text"
-                                                                                           aria-invalid="false"
-                                                                                           placeholder="GA Campaign"
-                                                                                           type="text"></span><span
-                                        class=""><input name="landing_page" value=""
-                                                                                            size="40"
-                                                                                            class="wpcf7-form-control wpcf7-text"
-                                                                                            aria-invalid="false"
-                                                                                            placeholder="Landing Page"
-                                                                                            type="text"></span><span
-                                        class=""><input name="conversion_page"
-                                                                                               value="" size="40"
-                                                                                               class="wpcf7-form-control wpcf7-text"
-                                                                                               aria-invalid="false"
-                                                                                               placeholder="Conversion page"
-                                                                                               type="text"></span></div>
-                            <p><span class=""><input name="contact-name" value=""
-                                                                                         size="40"
-                                                                                         class=""
-                                                                                         aria-required="true"
-                                                                                         aria-invalid="false"
-                                                                                         placeholder="Your Name"
-                                                                                         type="text"></span>
-                                <span
-                                        class=""><input name="contact-email"
-                                                                                             value="" size="40"
-                                                                                             class=""
-                                                                                             aria-required="true"
-                                                                                             aria-invalid="false"
-                                                                                             placeholder="Email"
-                                                                                             type="email"></span><span
-                                        class=""><textarea name="message" cols="40"
-                                                                                          rows="10"
-                                                                                          class=""
-                                                                                          aria-required="true"
-                                                                                          aria-invalid="false"
-                                                                                          placeholder="Message"></textarea></span><br>
-                                <span class=""
-                                      style="display:none !important; visibility:hidden !important;"><label
-                                            class="hp-message">Please leave this field empty.</label><input
-                                            class="wpcf7-form-control wpcf7-text" name="honeypot-126" value="" size="40"
-                                            tabindex="-1" autocomplete="off" type="text"></span><br> <input
-                                        value="Submit" id="thesubmit"
-                                        type="button"></p>
+                        <form action="" method="post" id="form-contact">
+
+                            <p>
+                                <span class=""><input name="jform[contact_name]" value="" size="40" class="" required placeholder="Your Name" type="text"></span>
+                                <input style="display: none" name="jform[contact_subject]" id="jform_contact_emailmsg" value="new email contact" class="required invalid" size="60" required="required" aria-required="true" aria-invalid="true" type="text">
+                                <span class=""><input name="jform[contact_email]" value="" size="40" class=""  placeholder="Email" type="email"></span>
+                                <span class=""><textarea name="jform[contact_message]" cols="40" rows="10" class=""  placeholder="Message"></textarea></span>
+                                <br><br>
+                                <input class="btn" value="Submit" id="thesubmit" type="submit">
+                            </p>
+
+                            <input name="option" value="com_contact" type="hidden">
+                            <input name="task" value="contact.submit" type="hidden">
+                            <input name="return" value="" type="hidden">
+                            <input name="id" value="1" type="hidden">
+                            <?php echo JHtml::_( 'form.token' ); ?>
+
                         </form>
                     </div>
                 </div>

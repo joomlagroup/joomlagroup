@@ -73,5 +73,21 @@ jQuery(document).ready(function($){
         var header_height = $('header').height();
         $('.conponent_site').css('margin-top',header_height+'px');
 
+        $( "#form-contact" ).validate({
+            rules: {
+                'jform[contact_name]': {
+                    required: true
+                },
+                'jform[contact_email]': {
+                    required: true,
+                    email: true
+                },
+                'jform[contact_message]': {
+                    required: true
+                }
+            }
+        });
+
+
 
 });
