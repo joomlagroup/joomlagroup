@@ -25,8 +25,8 @@
       <file leaf-file-name="template.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="2685" column="25" selection-start-line="2685" selection-start-column="25" selection-end-line="2685" selection-end-column="25" />
+            <state relative-caret-position="169">
+              <caret line="2684" column="14" selection-start-line="2684" selection-start-column="14" selection-end-line="2684" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -285,12 +285,12 @@
       <workItem from="1535681993197" duration="5714000" />
       <workItem from="1535689999706" duration="13581000" />
       <workItem from="1535726547873" duration="109000" />
-      <workItem from="1535940798260" duration="17340000" />
+      <workItem from="1535940798260" duration="17471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104914000" />
+    <option name="totallyTimeSpent" value="105045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -666,8 +666,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="2685" column="25" selection-start-line="2685" selection-start-column="25" selection-end-line="2685" selection-end-column="25" />
+        <state relative-caret-position="169">
+          <caret line="2684" column="14" selection-start-line="2684" selection-start-column="14" selection-end-line="2684" selection-end-column="14" />
         </state>
       </provider>
     </entry>
