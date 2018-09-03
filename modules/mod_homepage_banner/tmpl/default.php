@@ -11,10 +11,9 @@ defined('_JEXEC') or die;
 ?>
 
 <section class="section-banner">
-    <img src="<?php echo JUri::root() . 'images/custom' ?>/comradeimage.jpg" class="img-responsive" alt="">
-    <div class="col-sm-12 col-xs-12 text-center tempSliderText">
-        <h2>Joomla Design and Development for <br>
-            Extensibility, Usability &amp; Reliability</h2>
-        <p>Build powerful web sites &amp; apps using one of the most preferred CMS Platform - Joomla!</p>
-    </div>
+        <div class="text-center tempSliderText">
+            <h2>Joomla Design and Development for <br>
+                Extensibility, Usability &amp; Reliability</h2>
+            <p>Build powerful web sites &amp; apps using one of the most preferred CMS Platform - Joomla!</p>
+        </div>
 </section>

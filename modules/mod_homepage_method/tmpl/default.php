@@ -31,7 +31,7 @@ defined('_JEXEC') or die;
     </div>
     <div class="method__wrap">
         <div class="method-item ">
-            <div class="method-item__text"><h3><i class="icon-chart-growth"></i> <span>Industry Expertise and Strategy Development</span>
+            <div class="method-item__text"><h3><i class="fa fa-bar-chart"></i> <span>Industry Expertise and Strategy Development</span>
                 </h3>
                 <p><span style="font-weight: 400;">With almost 10 years in web design, development, and digital marketing, we’ve worked on over 200 projects across dozens of industries, honing our skills and growing our craft since. As your partner, we will assign a brand strategist with experience in your industry to understand your business, develop an effective long-term digital marketing strategy, oversee execution, and provide ongoing data-driven adjustments along the way.</span>
                 </p></div>
@@ -40,7 +40,7 @@ defined('_JEXEC') or die;
                         alt=""></div>
         </div>
         <div class="method-item method-item--reverse">
-            <div class="method-item__text"><h3><i class="icon-pencil-ruler2"></i>
+            <div class="method-item__text"><h3><i class="fa fa-pencil"></i>
                     <span>Result-Driven Production Team</span></h3>
                 <p>With CWA, you’re equipped with a team of driven professionals: project managers, marketing
                     strategists, web designers, web developers, QA team, PPC and SEO specialists, copywriters, brand
