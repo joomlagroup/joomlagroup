@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0d94e37c-04b8-4249-86ac-b0e037571387" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/templates/ruby_template/css/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/css/template.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ruby_template/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +25,8 @@
       <file leaf-file-name="template.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="71" column="50" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
+            <state relative-caret-position="360">
+              <caret line="2642" column="51" selection-start-line="2642" selection-start-column="51" selection-end-line="2642" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -217,12 +216,12 @@
       <workItem from="1535681993197" duration="5714000" />
       <workItem from="1535689999706" duration="13581000" />
       <workItem from="1535726547873" duration="109000" />
-      <workItem from="1535940798260" duration="2749000" />
+      <workItem from="1535940798260" duration="3673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90323000" />
+    <option name="totallyTimeSpent" value="91247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -573,8 +572,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="71" column="50" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
+        <state relative-caret-position="360">
+          <caret line="2642" column="51" selection-start-line="2642" selection-start-column="51" selection-end-line="2642" selection-end-column="51" />
         </state>
       </provider>
     </entry>

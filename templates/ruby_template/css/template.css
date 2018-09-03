@@ -2640,6 +2640,15 @@ div.tag-category .btn {
         color: #21ab9b;
     }
 
+    .navbar-default .navbar-nav > .active > a:hover {
+        background: none;
+    }
+
+    .navbar-default .navbar-nav > .active > a {
+        background: none;
+        color: #21ab9b;
+    }
+
     header nav.navbar ul li ul {
         position: relative;
         left: auto;
@@ -2649,5 +2658,7 @@ div.tag-category .btn {
     header nav.navbar ul li {
         height: auto;
     }
+
+
 }
 
