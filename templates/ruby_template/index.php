@@ -97,6 +97,7 @@ if ($menu->getActive() == $menu->getDefault()) {
         <a class="getstartBtn-header" href="#"><span class="shake moveAnimate">GET STARTED <span class="listingExrArrow getStartedArrow"></span></span></a>
     </div>
     <?php endif; ?>
+    <div class="clearfix"></div>
 </header>
 
 <?php if($is_homepage): ?>

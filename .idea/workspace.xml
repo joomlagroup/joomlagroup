@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0d94e37c-04b8-4249-86ac-b0e037571387" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/templates/ruby_template/css/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/css/template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/ruby_template/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="53" column="54" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+            <state relative-caret-position="251">
+              <caret line="53" column="54" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -25,8 +26,8 @@
       <file leaf-file-name="template.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="2642" column="51" selection-start-line="2642" selection-start-column="51" selection-end-line="2642" selection-end-column="51" />
+            <state relative-caret-position="238">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -216,12 +217,12 @@
       <workItem from="1535681993197" duration="5714000" />
       <workItem from="1535689999706" duration="13581000" />
       <workItem from="1535726547873" duration="109000" />
-      <workItem from="1535940798260" duration="3673000" />
+      <workItem from="1535940798260" duration="4726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91247000" />
+    <option name="totallyTimeSpent" value="92300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -565,15 +566,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="53" column="54" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+        <state relative-caret-position="251">
+          <caret line="53" column="54" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="2642" column="51" selection-start-line="2642" selection-start-column="51" selection-end-line="2642" selection-end-column="51" />
+        <state relative-caret-position="238">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
