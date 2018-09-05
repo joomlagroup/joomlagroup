@@ -71,6 +71,13 @@ img{
 }
 
 /* header{position:fixed;top:0px;z-index:9999;} */
+.conponent_site {
+    margin-top: 15px;
+}
+
+#system-message-container {
+    margin-top: 10px;
+}
 
 header nav.navbar{
     min-height:auto;
@@ -2203,7 +2210,6 @@ a {
     }
 
     #menu nav .navbar-header .mobileLinks ul li .salesEmail a {
-        font-family: Poppinsregular;
         font-size: 10px;
         text-transform: inherit;
     }
@@ -2720,6 +2726,371 @@ div.tag-category .btn {
         height: auto;
     }
 
+}
 
+
+/* page contact */
+#contactUs {
+}
+
+#contactUs h2 {
+    font-size:44px;
+    line-height:44px;
+    margin-bottom:8px;
+    letter-spacing:0.1px;
+}
+
+#contactUs .green {
+    color: #21AC9B;
+    font-size: inherit;
+    font-family: inherit;
+    line-height: inherit;
+}
+
+
+.lightGray.Strip{margin-bottom:18px;}
+
+#contactUs .contactForm label {
+    color: #000000;
+    display: inline-block;
+    font-size: 13px;
+    max-width: 150px;
+}
+
+.shadowBox {
+    box-shadow: 0 0 20px #e7e7e7;
+    display: inline-block;
+    width: 100%;
+    background: #e8f6f5;
+}
+
+.leftWhitebox {
+    background: #ffffff;
+    display: inline-block;
+    float: left;
+    margin-left: -15px;
+    padding: 50px 160px 50px 21px;
+    border-right: 3px solid #56bcaf;
+    height: 100%;
+}
+
+.inputfield {
+    border: 1px solid #cfcfcf;
+    padding: 10px;
+}
+
+#contactUs .contactForm {
+    margin-bottom: 15px;
+}
+
+#contactUs .lableTitle label {
+    padding: 10px;
+    text-transform: none;
+}
+
+.contactForm.defineFloat input[type="text"], .contactForm.defineFloat textarea, .contactForm.defineFloat select {
+    width: 100%;
+}
+
+#contactUs input, #contactUs select, #contactUs textarea, #contactUs button {
+    vertical-align: middle;
+    outline: none;
+    border: none;
+}
+
+.contactForm.defineFloat textarea {
+    height: 140px;
+    resize: none;
+}
+
+.rightgreenbox {
+    padding: 50px 34px 50px 50px;
+    text-align: right;
+}
+
+.detailTitle {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.capchapic, .buttonfield {
+    padding-left: 0;
+}
+
+.addressRor {
+    border-bottom: 1px solid #d0dddc;
+    padding: 14px 0;
+}
+
+.addressTilte {
+    font-size: 14px;
+    padding: 0 0 5px;
+}
+
+.lightGray {
+    margin-top: 6px;
+    margin-bottom: 3px;
+}
+
+.secTweleveBoxes.lessMargin {
+    margin-bottom: 0;
+}
+
+.addressListing > li, .addressListing > li a, .addressDetail a {
+    color: #232323;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 2px 0;
+}
+
+.addressDetail {
+    font-size: 13px;
+}
+
+.addressListing > li a:hover, .addressDetail a:hover {
+    color: #56BCAF;
+}
+
+.addressListing > li img {
+    margin-left: 10px;
+}
+
+.buttonfield button {
+    background: #343434;
+    color: #ffffff;
+    padding: 29px 48px 40px;
+}
+
+.buttonfield button:hover {
+    background: #21AB9B;
+}
+
+.addressRor.last {
+    border-bottom: none;
+}
+
+#contactUs h2 {
+    font-size: 44px;
+    line-height: 44px;
+    margin-bottom: 8px;
+    letter-spacing: 0.1px;
+}
+
+.lightGray.Strip {
+    margin-bottom: 18px;
+}
+
+.descriptonBox.Text {
+    font-size: 17px;
+    letter-spacing: 0.5px;
+    margin-bottom: 43px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.aboutLeftText a {
+    letter-spacing: 0.8px;
+}
+
+.addressListing .salesEmail > a i {
+    display: none;
+}
+
+.addressListing span {
+    font-size: inherit;
+}
+
+.fontSizeSeventeen.padLess {
+    padding: 0;
+}
+
+#contactUs .defineFloat {
+    float: left;
+    width: 100%;
+}
+
+.addressListing {
+    list-style: none;
+    padding: 0px;
+}
+
+.addressListing.first > li:first-child .getflag.flag1 {
+    background-position: -233px -148px;
+    background-image: url("../images/sprite.png");
+    display: inline-block;
+
+    height: 11px;
+    width: 20px;
+    margin-left: 10px;
+}
+
+.addressListing.first > li:nth-child(2) .getflag.flag2 {
+    background-position: -233px -190px;
+    background-image: url("../images/sprite.png");
+    display: inline-block;
+
+    height: 11px;
+    width: 20px;
+    margin-left: 10px;
+}
+
+.addressListing.first > li:nth-child(3) .getflag.flag3 {
+    background-position: -233px -95px;
+    background-image: url("../images/sprite.png");
+    display: inline-block;
+
+    height: 11px;
+    width: 20px;
+    margin-left: 10px;
+}
+
+.addressListing.first > li:nth-child(4) .getflag.flag4 {
+    background-position: -233px -51px;
+    background-image: url("../images/sprite.png");
+    display: inline-block;
+
+    height: 11px;
+    width: 20px;
+    margin-left: 10px;
+}
+
+.addressListing.second > li:nth-child(1) .getflag.flag4, .addressListing.second > li:nth-child(2) .getflag.flag4 {
+    background-position: -233px -51px;
+
+    background-image: url("../images/sprite.png");
+    display: inline-block;
+    height: 11px;
+    width: 20px;
+    margin-left: 10px;
+}
+
+button.greyButton {
+    background: #343434 none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 0;
+    color: #ffffff;
+    font-size: 14px;
+    height: 74px;
+    letter-spacing: 1.4px;
+    line-height: 0;
+    padding: 29px 55px 40px;
+    position: relative;
+    vertical-align: top;
+    z-index: 1;
+    text-transform: uppercase;
+}
+
+
+button.greyButton::before {
+    border-bottom: 2px solid #ffffff;
+    content: "";
+    left: 50%;
+    position: absolute;
+    bottom: 22px;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    width: 45px;
+    transition: all 0.7s ease-in-out 0s;
+    -moz-transition: all 0.7s ease-in-out 0s;
+    -webkit-transition: all 0.7s ease-in-out 0s;
+    -o-transition: all 0.7s ease-in-out 0s;
+}
+
+a.greyButton {
+    background: #343434 none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 0;
+    color: #ffffff;
+    font-size: 14px;
+    height: 75px;
+    letter-spacing: 1.4px;
+    line-height: 0;
+    padding: 29px 55px 40px;
+    position: relative;
+    vertical-align: top;
+    z-index: 1;
+    font-weight: bold;
+}
+
+.btn.btn-default.greyButton:hover, .footerReseller a:hover {
+    background: #f1c826;
+    color: #000000;
+}
+
+button.greyButton:hover::before{
+    border-bottom: 2px solid #000;
+}
+
+a.greyButton::before {
+    border-bottom: 2px solid #ffffff;
+    content: "";
+    left: 50%;
+    position: absolute;
+    bottom: 22px;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    width: 45px;
+    transition: all 0.7s ease-in-out 0s;
+    -moz-transition: all 0.7s ease-in-out 0s;
+    -webkit-transition: all 0.7s ease-in-out 0s;
+    -o-transition: all 0.7s ease-in-out 0s;
+}
+
+.inputfield {
+
+}
+
+.inputfield .error {
+    color: red !important;
+}
+
+@media only screen and (max-width: 768px) {
+    #contactUs .leftWhitebox {
+        float: none;
+        padding: 20px 10px;
+        margin: 10px 0px;
+        border: none;
+    }
+
+    #contactUs .leftWhitebox .contactForm .lableTitle{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #contactUs .leftWhitebox .contactForm label{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    #contactUs h2 {
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    #contactUs .descriptonBox.Text {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    #contactUs .leftWhitebox {
+        float: none;
+        padding: 20px 10px;
+        margin: 10px 0px;
+        border: none;
+    }
+
+    #contactUs .leftWhitebox .contactForm .lableTitle{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #contactUs .leftWhitebox .contactForm label{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
 }
 

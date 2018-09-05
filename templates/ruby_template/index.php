@@ -22,6 +22,7 @@ if ($menu->getActive() == $menu->getDefault()) {
     $is_homepage = 1;
 }
 
+$option = JRequest::getVar('option','');
 
 ?>
 <!DOCTYPE html>
@@ -108,8 +109,10 @@ if ($menu->getActive() == $menu->getDefault()) {
     <?php endif; ?>
 <?php else: ?>
     <div class="container conponent_site">
+        <?php  if($option=='com_content' or $option=='com_tags'): ?>
         <div class="row row-fluid main_blogs">
             <div class="col-md-8">
+                <jdoc:include type="message" />
                 <jdoc:include type="modules" name="breadcrumb" style="xhtml" />
                 <jdoc:include type="component" />
             </div>
@@ -119,6 +122,10 @@ if ($menu->getActive() == $menu->getDefault()) {
                 <?php endif; ?>
             </div>
         </div>
+        <?php else: ?>
+            <jdoc:include type="message" />
+            <jdoc:include type="component" />
+        <?php endif; ?>
     </div>
 <?php endif; ?>
 

@@ -70,8 +70,8 @@ jQuery(document).ready(function($){
 
         $(document).ready(_init.init);
 
-        var header_height = $('header').height();
-        $('.conponent_site').css('margin-top',header_height+'px');
+        //var header_height = $('header').height();
+        //$('.conponent_site').css('margin-top',header_height+'px');
 
         $( "#form-contact" ).validate({
             rules: {
@@ -85,8 +85,30 @@ jQuery(document).ready(function($){
                 'jform[contact_message]': {
                     required: true
                 }
+            },
+            messages: {
+                'jform[contact_name]': {
+                    required: "this field is required"
+                },
+                'jform[contact_email]': {
+                    email: "Enter vaild Email",
+                    required: "this field is required" // <-- removed underscore
+                },
+                'jform[contact_message]': {
+                required: "this field is required"
+                }
+            },
+            submitHandler: function (form) {
+                form.submit();
             }
         });
+
+        //for contact page
+        var window_width = $( window ).width();
+        if(window_width >= 1000){
+            var right_contact = $('.right_contact').height();
+            $('.left_contact').css('height',right_contact+'px');
+        }
 
 
 
