@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0d94e37c-04b8-4249-86ac-b0e037571387" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joomlagroup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/joomlagroup.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/ruby_template/css/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/css/template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/ruby_template/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,41 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="automaticintroimage.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/plugins/content/automaticintroimage/automaticintroimage.php">
+      <file leaf-file-name="template.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="61" column="95" selection-start-line="61" selection-start-column="95" selection-end-line="61" selection-end-column="95" />
+            <state relative-caret-position="335">
+              <caret line="3096" column="19" selection-start-line="3096" selection-start-column="19" selection-end-line="3096" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="82" column="57" selection-start-line="82" selection-start-column="57" selection-end-line="82" selection-end-column="57" />
               <folding>
-                <element signature="e#7#166#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="automaticintroimage.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/Compressed/JAutomaticIntroImage-1.3.2/automaticintroimage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="61" column="17" lean-forward="true" selection-start-line="51" selection-start-column="15" selection-end-line="61" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Image.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libraries/vendor/joomla/image/src/Image.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="426" column="29" selection-start-line="426" selection-start-column="15" selection-end-line="426" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="automaticintroimage.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/content/automaticintroimage/automaticintroimage.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -56,9 +41,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.icon-cross::before</find>
-      <find>.defineFloat.templateSlider, .defineFloat.templateSlider img</find>
-      <find>767</find>
       <find>480</find>
       <find>section-top</find>
       <find>height</find>
@@ -86,6 +68,9 @@
       <find>contact</find>
       <find>mess</find>
       <find>greyButton</find>
+      <find>navbar-collapse collapse in</find>
+      <find>header nav.navbar ul li a</find>
+      <find>col_header_info</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -137,16 +122,16 @@
         <option value="$PROJECT_DIR$/modules/mod_homepage_method/tmpl/default.php" />
         <option value="$PROJECT_DIR$/modules/mod_homepage_banner/tmpl/default.php" />
         <option value="$PROJECT_DIR$/components/com_contact/views/contact/tmpl/default.php" />
-        <option value="$PROJECT_DIR$/templates/ruby_template/index.php" />
         <option value="$PROJECT_DIR$/modules/mod_homepage_map_contact/tmpl/default.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/scripts/js.js" />
         <option value="$PROJECT_DIR$/templates/ruby_template/html/com_contact/contact/default.php" />
-        <option value="$PROJECT_DIR$/templates/ruby_template/css/template.css" />
         <option value="$PROJECT_DIR$/../tuixachanhbinh/admin/lib/config.php" />
         <option value="$PROJECT_DIR$/templates/ruby_template/html/layouts/joomla/content/intro_image.php" />
         <option value="$USER_HOME$/Downloads/Compressed/JAutomaticIntroImage-1.3.2/automaticintroimage.php" />
         <option value="$PROJECT_DIR$/plugins/content/automaticintroimage/automaticintroimage.xml" />
         <option value="$PROJECT_DIR$/plugins/content/automaticintroimage/automaticintroimage.php" />
+        <option value="$PROJECT_DIR$/templates/ruby_template/index.php" />
+        <option value="$PROJECT_DIR$/templates/ruby_template/css/template.css" />
       </list>
     </option>
   </component>
@@ -159,7 +144,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="574" />
     <option name="y" value="-25" />
     <option name="width" value="1346" />
@@ -171,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,26 +167,25 @@
             <path>
               <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_template" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="joomlagroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="joomlagroup" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="automaticintroimage" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_template" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,18 +243,19 @@
       <workItem from="1536128004750" duration="1528000" />
       <workItem from="1536290232476" duration="16000" />
       <workItem from="1536290249913" duration="5010000" />
-      <workItem from="1536306945346" duration="10624000" />
+      <workItem from="1536306945346" duration="10940000" />
+      <workItem from="1536369731402" duration="13354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135661000" />
+    <option name="totallyTimeSpent" value="149331000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32843137" />
@@ -293,19 +279,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -532,13 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/ruby_template/html/com_contact/contact/default - Copy.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -570,13 +549,6 @@
     <entry file="file://$PROJECT_DIR$/../tuixachanhbinh/cache/xy.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../tuixachanhbinh/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -605,32 +577,49 @@
     <entry file="file://$PROJECT_DIR$/plugins/content/smartresizer/smartresizer.php" />
     <entry file="file://$PROJECT_DIR$/plugins/content/automaticintroimage/automaticintroimage.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
+        <state relative-caret-position="170">
           <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libraries/vendor/joomla/image/src/Image.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="426" column="29" selection-start-line="426" selection-start-column="15" selection-end-line="426" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Compressed/JAutomaticIntroImage-1.3.2/automaticintroimage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="61" column="17" lean-forward="true" selection-start-line="51" selection-start-column="15" selection-end-line="61" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plugins/content/automaticintroimage/automaticintroimage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="17">
           <caret line="61" column="95" selection-start-line="61" selection-start-column="95" selection-end-line="61" selection-end-column="95" />
           <folding>
             <element signature="e#7#166#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Compressed/JAutomaticIntroImage-1.3.2/automaticintroimage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="61" column="17" selection-start-line="51" selection-start-column="15" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/vendor/joomla/image/src/Image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="426" column="29" selection-start-line="426" selection-start-column="15" selection-end-line="426" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ruby_template/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="82" column="57" selection-start-line="82" selection-start-column="57" selection-end-line="82" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#jdoc:include#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="3096" column="19" selection-start-line="3096" selection-start-column="19" selection-end-line="3096" selection-end-column="19" />
         </state>
       </provider>
     </entry>

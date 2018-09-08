@@ -56,42 +56,39 @@ $option = JRequest::getVar('option','');
 <header class="defineFloat">
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-3">
+            <div class="rows">
+                <div class="pull-left">
                     <div class="navbar-header">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                                data-target="#navigation"><span class="icon-bar"></span> <span class="icon-bar"></span>
-                            <span class="icon-bar"></span> <span class="sr-only">Toggle navigation</span></button>
-                        <div class="mobileLinks">
-                            <ul class="list-unstyled">
-                                <li>
-                                    <div class="headerPhone">
-                                        <a href="#"><i class="fa fa-phone" aria-hidden="true"></i>8498917500</a>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="salesEmail"></div>
-                                </li>
-                            </ul>
-                        </div>
+
                         <a href="<?php echo JUri::root() ?>" class="navbar-brand">
-                            <img src="<?php echo $gk_tools->templateurl(); ?>/images/logo.png" alt="" class="img-responsive hidden-xs visible-sm visible-md visible-lg"/>
-                            <img src="<?php echo $gk_tools->templateurl(); ?>/images/mobilelogo.png" alt="" class="img-responsive visible-xs hidden-sm"/>
+                            <img id="logo_desktop" src="<?php echo $gk_tools->templateurl(); ?>/images/logo.png" alt="" class="img-responsive hidden-xs visible-sm visible-md visible-lg"/>
+                            <img id="logo_mobile" src="<?php echo $gk_tools->templateurl(); ?>/images/mobilelogo.png" alt="" class="img-responsive visible-xs hidden-sm"/>
                         </a>
                     </div>
                 </div>
-                <div class="col-md-7">
-                    <div class="collapse navbar-collapse" id="navigation">
-                        <jdoc:include type="modules" name="menu" style="xhtml"/>
-                    </div>
+                <div class="pull-right">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                            data-target="#navigation"><span class="icon-bar"></span> <span class="icon-bar"></span>
+                        <span class="icon-bar"></span> <span class="sr-only">Toggle navigation</span>
+                    </button>
                 </div>
-                <div class="col-md-2">
-                    <div class="header_info">
-                        <div class="headerPhone"><a href="tel:+1(646)-808-0229"> <i class="fa fa-phone" aria-hidden="true"></i>8498917500</a></div>
-                        <div class="salesEmail"><a href="mailto:webmaster@joomlagroup.com"><i class="fa fa-envelope" aria-hidden="true"></i>webmaster@joomlagroup.com</a>
+                <div class="pull-right">
+                    <div  id="col_header_info"  class="pull-right">
+                        <div class="header_info">
+                            <div class="headerPhone"><a href="tel:+1(646)-808-0229"> <i class="fa fa-phone" aria-hidden="true"></i>8498917500</a></div>
+                            <div class="salesEmail"><a href="mailto:webmaster@joomlagroup.com"><i class="fa fa-envelope" aria-hidden="true"></i>webmaster@joomlagroup.com</a>
+                            </div>
                         </div>
                     </div>
+                    <div id="wrap_menu" class="pull-right">
+                        <div class="collapse navbar-collapse" id="navigation">
+                            <jdoc:include type="modules" name="menu" style="xhtml"/>
+                        </div>
+                    </div>
+
                 </div>
+
+
             </div>
         </div>
     </nav>

@@ -119,6 +119,14 @@ header nav.navbar ul li a, header nav.navbar ul li span{
     display: inline-block;
 }
 
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > span:hover{
+    color: #21AC9B;
+}
+
+header nav.navbar ul li:first-child{
+    border-left: none;
+}
+
 header .headerPhone > a{
     font-family:Montserrat_Bold;
     font-size:16px;
@@ -212,7 +220,7 @@ header .mobileLinks{display:none;}
 }
 
 .header_info {
-    padding: 9px 5px;
+    padding: 9px 10px;
 }
 
 .salesEmail a {
@@ -221,6 +229,10 @@ header .mobileLinks{display:none;}
 }
 
 .salesEmail > a i {
+    margin-right: 8px;
+}
+
+.headerPhone > a i {
     margin-right: 8px;
 }
 
@@ -2689,7 +2701,7 @@ div.tag-category .btn {
     }
 
     .container.conponent_site {
-        margin-top: 136px !important;
+        margin-top: 75px !important;
     }
 
     header nav.navbar ul li a,header nav.navbar ul li span {
@@ -2703,8 +2715,24 @@ div.tag-category .btn {
     }
 
     header nav.navbar ul li.active a, eader nav.navbar ul li.active span {
-        background-color: #f6f6f6;
+        /*background-color: #f6f6f6;*/
         color: #21ab9b;
+    }
+
+    header nav.navbar .active span, header nav.navbar .active a {
+        color: #21ab9b;
+    }
+
+    .navbar-nav {
+        margin-top: 0px;
+    }
+
+    header nav.navbar ul li {
+        border-left: none;
+    }
+
+    .navbar-default .navbar-nav > li > a{
+        color: #fff;
     }
 
     .navbar-default .navbar-nav > .active > a:hover {
@@ -3046,7 +3074,45 @@ a.greyButton::before {
     color: red !important;
 }
 
+@media only screen and (max-width: 1175px) {
+
+    #logo_desktop {
+        display: none !important;
+    }
+    #logo_mobile {
+        display: block !important;
+    }
+
+    header nav.navbar ul li a, header nav.navbar ul li span {
+        padding: 23px 17px;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 930px) {
+
+    header nav.navbar ul li a, header nav.navbar ul li span {
+        padding: 13px 9px;
+        font-size: 12px;
+    }
+
+
+
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+        border: none;
+    }
+
+}
+
 @media only screen and (max-width: 768px) {
+    #wrap_menu {
+        position: absolute;
+        left: 0px;
+        top: 66px;
+        width: 100%;
+    }
     #contactUs .leftWhitebox {
         float: none;
         padding: 20px 10px;
@@ -3062,6 +3128,24 @@ a.greyButton::before {
     #contactUs .leftWhitebox .contactForm label{
         padding-left: 0px;
         padding-right: 0px;
+    }
+
+    #col_header_info {
+        padding: 9px 5px;
+        position: absolute;
+        top: 0px;
+        left: 90px;
+        z-index: 99;
+    }
+    .header_info {
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+    }
+
+    section.section-banner {
+        margin-top: 67px;
+        padding: 30px 5px;
     }
 }
 
@@ -3092,5 +3176,43 @@ a.greyButton::before {
         padding-left: 0px;
         padding-right: 0px;
     }
+
+    #col_header_info {
+        padding: 9px 5px;
+        position: absolute;
+        top: 0px;
+        left: 90px;
+        z-index: 99;
+    }
+    .header_info {
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+    }
+
+    section.section-banner {
+        margin-top: 67px;
+        padding: 30px 5px;
+    }
+    .navbar-toggle {
+        z-index: 999999;
+    }
 }
 
+@media only screen and (max-width: 350px) {
+    .salesEmail {
+        margin-top: 13px;
+    }
+
+    header .salesEmail > a, header .infoEmail > a {
+        font-size: 9px;
+    }
+}
+
+.float_right{
+    float: right;
+}
+
+.float_left{
+    float: left;
+}
