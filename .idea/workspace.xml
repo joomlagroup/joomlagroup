@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d94e37c-04b8-4249-86ac-b0e037571387" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/joomlagroup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/joomlagroup.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/ruby_template/css/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/css/template.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ruby_template/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +16,8 @@
       <file leaf-file-name="template.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="3096" column="19" selection-start-line="3096" selection-start-column="19" selection-end-line="3096" selection-end-column="19" />
+            <state relative-caret-position="497">
+              <caret line="3165" column="26" selection-start-line="3165" selection-start-column="26" selection-end-line="3165" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -144,7 +141,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="574" />
     <option name="y" value="-25" />
     <option name="width" value="1346" />
@@ -244,12 +241,12 @@
       <workItem from="1536290232476" duration="16000" />
       <workItem from="1536290249913" duration="5010000" />
       <workItem from="1536306945346" duration="10940000" />
-      <workItem from="1536369731402" duration="13354000" />
+      <workItem from="1536369731402" duration="13686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149331000" />
+    <option name="totallyTimeSpent" value="149663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -618,8 +615,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="3096" column="19" selection-start-line="3096" selection-start-column="19" selection-end-line="3096" selection-end-column="19" />
+        <state relative-caret-position="497">
+          <caret line="3165" column="26" selection-start-line="3165" selection-start-column="26" selection-end-line="3165" selection-end-column="26" />
         </state>
       </provider>
     </entry>
