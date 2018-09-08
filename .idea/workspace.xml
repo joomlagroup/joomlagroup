@@ -16,8 +16,8 @@
       <file leaf-file-name="template.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="3165" column="26" selection-start-line="3165" selection-start-column="26" selection-end-line="3165" selection-end-column="26" />
+            <state relative-caret-position="307">
+              <caret line="3118" column="5" selection-start-line="3118" selection-start-column="5" selection-end-line="3118" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -141,7 +141,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="574" />
     <option name="y" value="-25" />
     <option name="width" value="1346" />
@@ -241,12 +241,12 @@
       <workItem from="1536290232476" duration="16000" />
       <workItem from="1536290249913" duration="5010000" />
       <workItem from="1536306945346" duration="10940000" />
-      <workItem from="1536369731402" duration="13686000" />
+      <workItem from="1536369731402" duration="13900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149663000" />
+    <option name="totallyTimeSpent" value="149877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -615,8 +615,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/ruby_template/css/template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="3165" column="26" selection-start-line="3165" selection-start-column="26" selection-end-line="3165" selection-end-column="26" />
+        <state relative-caret-position="307">
+          <caret line="3118" column="5" selection-start-line="3118" selection-start-column="5" selection-end-line="3118" selection-end-column="5" />
         </state>
       </provider>
     </entry>

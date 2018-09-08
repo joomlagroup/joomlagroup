@@ -3094,7 +3094,7 @@ a.greyButton::before {
 @media only screen and (max-width: 930px) {
 
     header nav.navbar ul li a, header nav.navbar ul li span {
-        padding: 13px 9px;
+        padding: 23px 9px;
         font-size: 12px;
     }
 
@@ -3112,6 +3112,10 @@ a.greyButton::before {
         left: 0px;
         top: 66px;
         width: 100%;
+    }
+    header nav.navbar ul li a, header nav.navbar ul li span {
+        padding: 13px 9px;
+        font-size: 12px;
     }
     #contactUs .leftWhitebox {
         float: none;
