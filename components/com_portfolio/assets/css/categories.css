@@ -275,12 +275,12 @@ span.listingExrArrow.aboutInfoArrow::after{color:hsl(0, 0%, 71%);content:">>";di
         display: none;
     }
     .contentRightPart {
-        margin-right: 25px;
-        width: 470px;
+        margin-right: 0px;
+        width: 100%;
     }
 
     .contentLeftPart {
-        width: 320px;
+        width: 100%;
     }
 }
 
@@ -289,6 +289,10 @@ span.listingExrArrow.aboutInfoArrow::after{color:hsl(0, 0%, 71%);content:">>";di
         margin-right: 0px;
         width: auto;
         float:none;
+    }
+
+    .contentLeftPart {
+        width: 100%;
     }
 
     #tabMainMenu li {
