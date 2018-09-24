@@ -10,6 +10,37 @@
     src: url(fonts/Montserrat-Bold.otf);
 }
 
+
+@font-face{
+    font-family:'PoppinsRegular';
+    src:url('../fonts/PoppinsRegular.eot');
+    src:url('../fonts/PoppinsRegular.eot') format('embedded-opentype'),
+    url('../fonts/PoppinsRegular.woff2') format('woff2'),
+    url('../fonts/PoppinsRegular.woff') format('woff'),
+    url('../fonts/PoppinsRegular.ttf') format('truetype'),
+    url('../fonts/PoppinsRegular.svg#PoppinsRegular') format('svg');
+}
+
+@font-face {
+    font-family:'paymentfont-webfontregular';
+    src: url('../fonts/paymentfont-webfont-webfont.woff2') format('woff2'),
+    url('../fonts/paymentfont-webfont-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face{
+    font-family:'PoppinsSemiBold';
+    src:url('../fonts/PoppinsSemiBold.eot');
+    src:url('../fonts/PoppinsSemiBold.eot') format('embedded-opentype'),
+
+    url('../fonts/PoppinsSemiBold.woff2') format('woff2'),
+    url('../fonts/PoppinsSemiBold.woff') format('woff'),
+    url('../fonts/PoppinsSemiBold.ttf') format('truetype'),
+    url('../fonts/PoppinsSemiBold.svg#PoppinsSemiBold') format('svg');
+}
+
 body{
 	margin:0;
 	padding:0;
@@ -1966,8 +1997,8 @@ a.active {
 }
 
 .footer__bottom {
-    padding-top: 55px;
-    padding-bottom: 55px
+    padding-top: 10px;
+    padding-bottom: 10px
 }
 
 .footer__bottom

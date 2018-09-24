@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0" method="upgrade">
+
+    <name>com_portfolio</name>
+    <description>com portfolio description</description>
+    <!-- The following elements are optional and free of formatting constraints -->
+    <creationDate>April 2018</creationDate>
+    <author>JPWEB Team</author>
+    <authorEmail>trancong.joomla@gmail.com</authorEmail>
+    <authorUrl>http://jpweb.vn</authorUrl>
+    <copyright>JPWEB Team</copyright>
+    <license>License Info</license>
+    <!--  The version string is recorded in the components table -->
+    <version>1.0</version>
+    <!-- The description is optional and defaults to the name -->
+    <description>Description of the Com Portfolio component ...</description>
+
+    <!-- Site Main File Copy Section -->
+    <files folder="site">
+        <filename>index.html</filename>
+        <filename>portfolio.php</filename>
+        <filename>controller.php</filename>
+        <folder>assets</folder>
+        <folder>controllers</folder>
+        <folder>helpers</folder>
+        <folder>models</folder>
+        <folder>views</folder>
+    </files>
+
+    <media destination="com_portfolio" folder="media">
+        <filename>index.html</filename>
+        <folder>portfolio</folder>
+        <folder>icons</folder>
+    </media>
+
+    <administration>
+        <!-- Administration Menu Section -->
+        <menu link='index.php?option=com_jk8_products'>Portfolio</menu>
+        <files folder="admin">
+            <!-- Admin Main File Copy Section -->
+            <filename>index.html</filename>
+            <filename>portfolio.php</filename>
+            <filename>controller.php</filename>
+            <folder>assets</folder>
+            <folder>controllers</folder>
+            <folder>helpers</folder>
+            <folder>includes</folder>
+            <folder>models</folder>
+            <folder>tables</folder>
+            <folder>views</folder>
+            <!-- SQL files section -->
+        </files>
+
+    </administration>
+
+</extension>

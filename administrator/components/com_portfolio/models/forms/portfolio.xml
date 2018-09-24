@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding ="UTF-8" ?>
+
+<form>
+    
+    <field
+    name    = "title"
+    type    = "text"
+    default = ""
+    label   = "Title"
+    description ="Title"
+    size    = "40"
+    class   = "inputbox"
+    required ="true"
+    />
+
+    <field
+            name="alias"
+            type="text"
+            label="JFIELD_ALIAS_LABEL"
+            description="JFIELD_ALIAS_DESC"
+            size="45"
+            hint="JFIELD_ALIAS_PLACEHOLDER"
+    />
+
+
+    <field
+            name    = "catid"
+            type    = "parentselect"
+            label   = "Category"
+            description ="Category"
+            filter  = "alnum"
+            class   = "inputbox"
+            required ="true"
+    />
+
+
+    <field
+    name    = "published"
+    type    = "list"
+    default = "1"
+    label   = "Status"
+    description ="Status"
+    class   = "inputbox"
+    >
+    
+    <option value = "1">Publish</option>
+    <option value = "0">Unpublish</option>
+    </field>
+
+    <field
+    name    = "id"
+    type    = "text"
+    default = "0"
+    label   = "JGLOBAL_FIELD_ID_LABEL"
+    description ="JGLOBAL_FIELD_ID_DESC"
+    class   = "readonly"
+    readonly = "true"
+    />
+
+    <field
+            name="description"
+            type="editor"
+            label=""
+            description="Description of product category"
+            filter="JComponentHelper::filterText"
+            buttons="true"
+    />
+
+</form>
+
