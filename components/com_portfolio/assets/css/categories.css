@@ -283,3 +283,26 @@ span.listingExrArrow.aboutInfoArrow::after{color:hsl(0, 0%, 71%);content:">>";di
         width: 320px;
     }
 }
+
+@media only screen and (max-width: 532px){
+    .contentRightPart {
+        margin-right: 0px;
+        width: auto;
+        float:none;
+    }
+
+    #tabMainMenu li {
+        display: block;
+        float: none;
+        margin: 5px 0px;
+    }
+
+    #tabMainMenu li a{
+        display: block;
+        width: 100%;
+    }
+
+    .nav-tabs {
+        border-bottom: none !important;
+    }
+}

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d94e37c-04b8-4249-86ac-b0e037571387" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod_footer_bottom/tmpl/default.php" beforeDir="false" afterPath="$PROJECT_DIR$/modules/mod_footer_bottom/tmpl/default.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ruby_template/css/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ruby_template/css/template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/com_portfolio/assets/css/categories.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/com_portfolio/assets/css/categories.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,8 +58,8 @@
       <file leaf-file-name="categories.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/com_portfolio/assets/css/categories.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="274" column="22" selection-start-line="274" selection-start-column="22" selection-end-line="274" selection-end-column="22" />
+            <state relative-caret-position="480">
+              <caret line="304" column="5" selection-start-line="304" selection-start-column="5" selection-end-line="304" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -179,7 +177,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="574" />
     <option name="y" value="-25" />
     <option name="width" value="1346" />
@@ -355,12 +353,12 @@
       <workItem from="1537518883052" duration="564000" />
       <workItem from="1537522455588" duration="3866000" />
       <workItem from="1537579477898" duration="23744000" />
-      <workItem from="1537749571930" duration="22209000" />
+      <workItem from="1537749571930" duration="23120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203380000" />
+    <option name="totallyTimeSpent" value="204291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -731,8 +729,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_portfolio/assets/css/categories.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="274" column="22" selection-start-line="274" selection-start-column="22" selection-end-line="274" selection-end-column="22" />
+        <state relative-caret-position="480">
+          <caret line="304" column="5" selection-start-line="304" selection-start-column="5" selection-end-line="304" selection-end-column="5" />
         </state>
       </provider>
     </entry>
